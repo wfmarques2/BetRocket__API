@@ -1,0 +1,207 @@
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.csproj.AssemblyReference.cache
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.AssemblyInfoInputs.cache
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.AssemblyInfo.cs
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.csproj.CoreCompileInputs.cache
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\appsettings.Development.json
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\appsettings.json
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\BetRocket.exe
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\BetRocket.deps.json
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\BetRocket.runtimeconfig.json
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\BetRocket.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\BetRocket.pdb
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\staticwebassets\msbuild.BetRocket.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\staticwebassets\msbuild.build.BetRocket.props
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BetRocket.props
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BetRocket.props
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\staticwebassets.build.json
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\staticwebassets.development.json
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\scopedcss\bundle\BetRocket.styles.css
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.csproj.CopyComplete
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.dll
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\refint\BetRocket.dll
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.pdb
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.genruntimeconfig.cache
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\ref\BetRocket.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\MySqlConnector.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Domain.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Infra.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Domain.pdb
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Infra.pdb
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Humanizer.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\System.CodeDom.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\MediatR.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Application.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Application.pdb
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Projetos Rocket.UP\BetRocket\obj\Debug\net7.0\BetRocket.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Projetos Rocket.UP\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.csproj.AssemblyReference.cache
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.AssemblyInfoInputs.cache
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.AssemblyInfo.cs
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.csproj.CoreCompileInputs.cache
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\refint\BetRocket.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.pdb
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\appsettings.json
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\appsettings.Development.json
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\BetRocket.exe
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\BetRocket.deps.json
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\BetRocket.runtimeconfig.json
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\BetRocket.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\BetRocket.pdb
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Humanizer.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\MediatR.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\MySqlConnector.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\System.CodeDom.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Application.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Domain.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Infra.dll
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Application.pdb
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Domain.pdb
+C:\Projetos Rocket.UP\BetRocket - Copia\bin\Debug\net7.0\Infra.pdb
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\staticwebassets\msbuild.BetRocket.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\staticwebassets\msbuild.build.BetRocket.props
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BetRocket.props
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BetRocket.props
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\scopedcss\bundle\BetRocket.styles.css
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.csproj.CopyComplete
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\BetRocket.genruntimeconfig.cache
+C:\Projetos Rocket.UP\BetRocket - Copia\obj\Debug\net7.0\ref\BetRocket.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\appsettings.json
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\BetRocket.exe
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\BetRocket.deps.json
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\BetRocket.runtimeconfig.json
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\BetRocket.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\BetRocket.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Humanizer.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\MediatR.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Application.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Domain.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Infra.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Application.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Domain.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\bin\Debug\net7.0\Infra.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\staticwebassets\msbuild.BetRocket.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\staticwebassets\msbuild.build.BetRocket.props
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BetRocket.props
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BetRocket.props
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\scopedcss\bundle\BetRocket.styles.css
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.csproj.CopyComplete
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\refint\BetRocket.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\BetRocket.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\BetRocket\obj\Debug\net7.0\ref\BetRocket.dll

@@ -1,0 +1,24 @@
+C:\Projetos Rocket.UP\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Projetos Rocket.UP\Domain\bin\Debug\net7.0\Domain.dll
+C:\Projetos Rocket.UP\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\Domain.dll
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Projetos Rocket.UP\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\BetRocket-main\BetRocket-main\Domain\obj\Debug\net7.0\ref\Domain.dll
